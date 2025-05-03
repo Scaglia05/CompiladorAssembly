@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CompiladorAssembly": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
