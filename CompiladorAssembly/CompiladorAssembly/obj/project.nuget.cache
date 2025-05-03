@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PH+yXxPg4wE=",
+  "dgSpecHash": "7g5Gy2col6I=",
   "success": true,
-  "projectFilePath": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly.csproj",
+  "projectFilePath": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guisc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],

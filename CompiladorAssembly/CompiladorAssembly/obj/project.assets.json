@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly.csproj",
+      "projectUniqueName": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly.csproj",
       "projectName": "CompiladorAssembly",
-      "projectPath": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly.csproj",
+      "projectPath": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly.csproj",
       "packagesPath": "C:\\Users\\guisc\\.nuget\\packages\\",
-      "outputPath": "D:\\CompiladorAssembly\\CompiladorAssembly\\obj\\",
+      "outputPath": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
