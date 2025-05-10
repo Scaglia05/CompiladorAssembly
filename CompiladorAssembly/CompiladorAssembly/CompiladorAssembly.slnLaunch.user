@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "CompiladorAssembly.csproj",
+        "Action": "Start",
+        "DebugTarget": "CompiladorAssembly"
+      }
+    ]
+  }
+]

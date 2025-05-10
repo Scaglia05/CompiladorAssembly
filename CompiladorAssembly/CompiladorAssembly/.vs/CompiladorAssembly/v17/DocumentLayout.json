@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF406-2FC9-4997-9957-2B6E667DAFC6}|CompiladorAssembly.csproj|d:\\compiladorassembly\\compiladorassembly\\compiladorassembly\\modelos\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FBF406-2FC9-4997-9957-2B6E667DAFC6}|CompiladorAssembly.csproj|solutionrelative:modelos\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF406-2FC9-4997-9957-2B6E667DAFC6}|CompiladorAssembly.csproj|d:\\compiladorassembly\\compiladorassembly\\compiladorassembly\\modelos\\cpuconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FBF406-2FC9-4997-9957-2B6E667DAFC6}|CompiladorAssembly.csproj|solutionrelative:modelos\\cpuconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF406-2FC9-4997-9957-2B6E667DAFC6}|CompiladorAssembly.csproj|d:\\compiladorassembly\\compiladorassembly\\compiladorassembly\\modelos\\instruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FBF406-2FC9-4997-9957-2B6E667DAFC6}|CompiladorAssembly.csproj|solutionrelative:modelos\\instruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF406-2FC9-4997-9957-2B6E667DAFC6}|CompiladorAssembly.csproj|d:\\compiladorassembly\\compiladorassembly\\compiladorassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FBF406-2FC9-4997-9957-2B6E667DAFC6}|CompiladorAssembly.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CPUConfig.cs",
+              "DocumentMoniker": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\Modelos\\CPUConfig.cs",
+              "RelativeDocumentMoniker": "Modelos\\CPUConfig.cs",
+              "ToolTip": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\Modelos\\CPUConfig.cs",
+              "RelativeToolTip": "Modelos\\CPUConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T23:58:52.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwB0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:10:34.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CPU.cs",
+              "DocumentMoniker": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\Modelos\\CPU.cs",
+              "RelativeDocumentMoniker": "Modelos\\CPU.cs",
+              "ToolTip": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\Modelos\\CPU.cs",
+              "RelativeToolTip": "Modelos\\CPU.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:09:24.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instruction.cs",
+              "DocumentMoniker": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\Modelos\\Instruction.cs",
+              "RelativeDocumentMoniker": "Modelos\\Instruction.cs",
+              "ToolTip": "D:\\CompiladorAssembly\\CompiladorAssembly\\CompiladorAssembly\\Modelos\\Instruction.cs",
+              "RelativeToolTip": "Modelos\\Instruction.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwDQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:08:19.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

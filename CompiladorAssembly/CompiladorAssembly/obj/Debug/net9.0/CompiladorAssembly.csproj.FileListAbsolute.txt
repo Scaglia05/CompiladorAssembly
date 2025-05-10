@@ -1,0 +1,15 @@
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\bin\Debug\net9.0\CompiladorAssembly.exe
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\bin\Debug\net9.0\CompiladorAssembly.deps.json
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\bin\Debug\net9.0\CompiladorAssembly.runtimeconfig.json
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\bin\Debug\net9.0\CompiladorAssembly.dll
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\bin\Debug\net9.0\CompiladorAssembly.pdb
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\obj\Debug\net9.0\CompiladorAssembly.GeneratedMSBuildEditorConfig.editorconfig
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\obj\Debug\net9.0\CompiladorAssembly.AssemblyInfoInputs.cache
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\obj\Debug\net9.0\CompiladorAssembly.AssemblyInfo.cs
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\obj\Debug\net9.0\CompiladorAssembly.csproj.CoreCompileInputs.cache
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\obj\Debug\net9.0\CompiladorAssembly.sourcelink.json
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\obj\Debug\net9.0\CompiladorAssembly.dll
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\obj\Debug\net9.0\refint\CompiladorAssembly.dll
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\obj\Debug\net9.0\CompiladorAssembly.pdb
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\obj\Debug\net9.0\CompiladorAssembly.genruntimeconfig.cache
+D:\CompiladorAssembly\CompiladorAssembly\CompiladorAssembly\obj\Debug\net9.0\ref\CompiladorAssembly.dll
